@@ -1,0 +1,9 @@
+[
+  {
+    "title": "my Product",
+    "price": "100",
+    "desc": "dasdsdsadasdadasdassd",
+    "id": 1
+  },
+  { "title": "my Another one", "price": "600", "desc": "dsadsds", "id": 2 }
+]
